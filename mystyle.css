@@ -1,0 +1,22 @@
+* {
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+.date {
+    text-align: right;    
+}
+
+.date1 {
+    color: green;
+   
+}
+
+span.underline {
+    color: blue
+}
+
